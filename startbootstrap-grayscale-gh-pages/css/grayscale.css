@@ -117,8 +117,8 @@
 
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 2rem;
-    line-height: 2rem;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
   }
 }
 
@@ -128,8 +128,8 @@
     padding: 0;
   }
   .masthead h1 {
-    font-size: 4rem;
-    line-height: 4rem;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
     letter-spacing: 0.8rem;
   }
   .masthead h2 {
